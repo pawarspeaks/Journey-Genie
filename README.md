@@ -4,7 +4,7 @@ JourneyGenie is a web application that provides real-time travel updates, weathe
 
 ## Demo Video:
 
-https://github.com/pawarspeaks/Journey-Genie/assets/87373605/1215f3b8-467b-4b01-a927-db71908c0487
+https://github.com/pawarspeaks/Journey-Genie/assets/87373605/31795608-1106-4ac4-82e4-d933e18fbd7f
 
 ## Features
 
